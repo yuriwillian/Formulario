@@ -1,0 +1,62 @@
+body {
+    background: #0071a1;
+    font: normal 15pt Arial;
+}
+
+header {
+    color:white;
+    text-align: center; /** centralizar texto**/
+}
+
+img {
+    border-color:rgba(0, 0, 0, 0.438)
+}
+
+p#titulo {
+    text-align: center;
+    font: normal 25pt Bungee;
+    color: red;
+    margin-bottom: 0px;
+    text-shadow : 5px 5px 10px rgba(0, 0, 0, 0.733);
+}
+
+p {
+    text-align: center;
+    font: normal 18pt Bungee;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+
+div {
+    /** descobrir como alinhar o input no centro!!!!**/
+    border-radius: 100px; /** deixar as bordas arredondadas**/
+    padding: 111px; /** aumentar o tamanho**/
+    width: 400px; /** largura de 250px**/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    height: 90vh;
+    margin: auto;
+    
+}
+
+input {
+    border-radius: 100px; /** deixar as bordas arredondadas**/
+    padding: 10px; /** aumentar o tamanho**/
+    width: 400px; /** largura de 250px**/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+    margin-bottom: 35px;
+}
+
+input#botãosolucionar {
+    background: #ff0000;
+    font: normal 15px Bungee;
+    color: white;
+    padding: 8px;
+}
+
+footer {
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+}
