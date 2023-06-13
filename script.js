@@ -1,3 +1,5 @@
+window.alert('BEM VINDO!')
+
 function solucionar() {
     var nomeid = window.document.getElementById("nome")
     var telefoneid = window.document.getElementById("telefone")
